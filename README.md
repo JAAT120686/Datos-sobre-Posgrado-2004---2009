@@ -1,6 +1,6 @@
 # 🎓 Análisis de Posgrados SEP (2004-2009)
 
-Este proyecto presenta una visualización interactiva de los datos históricos de posgrados en México, analizando las tendencias, instituciones y oferta educativa durante el periodo 2004-2009.
+Este proyecto presenta una visualización interactiva de los datos históricos de posgrados en México, analizando las tendencias, instituciones y oferta educativa durante el periodo 2004-2009.Formó parte de una diplomado sobre análisis de información geoespacial.
 
 ## 📊 Dashboard Interactivo
 Haz clic en la imagen a continuación para explorar el tablero dinámico en **Tableau Public**:
